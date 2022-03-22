@@ -1,0 +1,1 @@
+# clone-swiggy-not-responsive
