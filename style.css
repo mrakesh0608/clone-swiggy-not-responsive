@@ -17,7 +17,7 @@ body{
     flex-direction: column;
     width: 605px;
 }
-#shead{
+#shead{ 
     display: flex;
     flex-direction: row;
     justify-content: space-between;
